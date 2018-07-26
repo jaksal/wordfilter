@@ -1,7 +1,6 @@
 package word
 
 import (
-	_ "saltlab/foundation/testhelper"
 	"testing"
 )
 
